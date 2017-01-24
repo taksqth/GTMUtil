@@ -39,7 +39,6 @@ def compile_project(container_filename):
         json.dump(gtm_obj, container_file, indent=4)
 
 if __name__ == "__main__":
-    path_to_template = "/home/takeshi/bin/gtm_template.json"
     path_to_project = "project/"
 
     if len(sys.argv) < 2:
