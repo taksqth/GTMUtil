@@ -1,4 +1,4 @@
-O objetivo desse projeto é facilitar a edição das _tags_
+O objetivo deste projeto é facilitar a edição das _tags_
 do Google Tag Manager criando um tipo de repositório
 local na máquina do usuário.
 
